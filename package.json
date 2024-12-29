@@ -1,18 +1,14 @@
-
-
-
-
 {
   "name": "my-website",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
-  "cra-template": "1.2.0",
-  "react": "^19.0.0",
-  "react-dom": "^19.0.0",
-  "react-scripts": "5.0.1",
-  "web-vitals": "^4.2.4",
-  "homepage": "https://github.com/shreyansh-hub/PressWay.git"
+    "cra-template": "1.2.0",
+    "react": "^19.0.0",
+    "react-dom": "^19.0.0",
+    "react-scripts": "5.0.1",
+    "web-vitals": "^4.2.4",
+    "homepage": "https://shreyansh-hub.github.io/PressWay/"
   },
   "scripts": {
     "start": "react-scripts start",
