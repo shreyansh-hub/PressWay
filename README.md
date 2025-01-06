@@ -4,8 +4,8 @@ PressWay is a News Application built using React and ExpressJS. The application 
 
 ## Features
 
-- View the latest news articles.
-- Filter news by categories such as Technology, Sports, Business, etc.
+- Real-time news aggregation from multiple sources.
+- Automated content updates and dynamic content delivery.
 - Responsive UI for mobile and desktop users.
 - Integration with a backend server using ExpressJS for data fetching.
 
