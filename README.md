@@ -43,7 +43,7 @@ Follow the steps below to get the application up and running on your local machi
 - Node.js and npm should be installed on your system.
 - You will also need a GitHub account and a repository to push your code.
 
-### 1. Clone the Repository
+### Clone the Repository
 
 Clone this repository to your local machine using the following command:
 
