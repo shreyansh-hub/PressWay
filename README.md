@@ -48,4 +48,4 @@ Follow the steps below to get the application up and running on your local machi
 Clone this repository to your local machine using the following command:
 
 ```bash
-git clone https://github.com/your-username/PressWay.git
+git clone https://github.com/shreyansh-hub/PressWay.git
